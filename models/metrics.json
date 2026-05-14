@@ -1,0 +1,28 @@
+{
+  "Линейная регрессия": {
+    "MAE": 508.76,
+    "RMSE": 638.16,
+    "MAPE": 19.34
+  },
+  "SARIMA": {
+    "MAE": 1295.94,
+    "RMSE": 3263.27,
+    "MAPE": 30.01
+  },
+  "Random Forest": {
+    "MAE": 262.5,
+    "RMSE": 325.05,
+    "MAPE": 7.68
+  },
+  "XGBoost": {
+    "MAE": 220.76,
+    "RMSE": 267.85,
+    "MAPE": 6.24
+  },
+  "Gradient Boosting": {
+    "MAE": 232.95,
+    "RMSE": 290.31,
+    "MAPE": 7.17
+  },
+  "best_model": "XGBoost"
+}
