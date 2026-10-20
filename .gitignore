@@ -25,3 +25,13 @@ env/
 # IDE
 .vscode/
 .idea/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
