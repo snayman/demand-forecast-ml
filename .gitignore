@@ -1,7 +1,4 @@
 # Модели и данные, которые генерируются скриптами
-models/*.pkl
-data/sales_data.csv
-data/monthly_features.csv
 
 # Python
 __pycache__/
